@@ -1,12 +1,5 @@
 
-# NodeJs: Build The Complete E-Commerce Web API
-
-
-# Introduction
-This repository is related to Udemy course of NodeJs: Build The Complete E-Commerce Web API
-
-[Join now here](https://bit.ly/3biGVp9)
-
+# “Ecommerce API with Node js”
 
 # Run
 
